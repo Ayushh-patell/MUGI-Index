@@ -13,17 +13,17 @@ export default function Home() {
       </nav>
       <div className=" w-full grid lg:grid-cols-4 grid-cols-2 gap-4 relative pt-10">
         <h3 className=" absolute top-0 left-1/2 -translate-x-1/2 font-extrabold text-2xl">V1</h3>
-        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://brook-section.netlify.app/">Brook</a></button>
-        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://chopper-section.netlify.app/">Chopper</a></button>
-        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://franky-section.netlify.app/">Franky</a></button>
-        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://jinbe-section.netlify.app/">Jinbe</a></button>
-        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://luffy-section.netlify.app/">Luffy</a></button>
-        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://nami-section.netlify.app/">Nami</a></button>
-        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://robin-section.netlify.app/">Robin</a></button>
-        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://sanji-section.netlify.app/">Sanji</a></button>
-        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://zoro-section.netlify.app/">Zoro</a></button>
-        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://usopp-section.netlify.app/">Usopp</a></button>
-        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://collective-section.netlify.app/">Collective Section</a></button>
+        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://brook-individual.vercel.app/">Brook</a></button>
+        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://chopper-individual.vercel.app/">Chopper</a></button>
+        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://franky-individual.vercel.app/">Franky</a></button>
+        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://jinbe-individual.vercel.app/">Jinbe</a></button>
+        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://luffy-individual.vercel.app/">Luffy</a></button>
+        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://nami-individual.vercel.app/">Nami</a></button>
+        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://robin-individual.vercel.app/">Robin</a></button>
+        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://sanji-individual.vercel.app/">Sanji</a></button>
+        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://zoro-individual.vercel.app/">Zoro</a></button>
+        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://usopp-individual.vercel.app/">Usopp</a></button>
+        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://collective-section-mugi.vercel.app/">Collective Section</a></button>
         <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://one-piece-next-ap.vercel.app/">Airdrop</a></button>
         <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://address-book-mugi.vercel.app/">Address Book</a></button>
         <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://leaderboard-mugi.vercel.app/">LeaderBoard</a></button>
