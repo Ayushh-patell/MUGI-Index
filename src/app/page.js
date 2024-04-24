@@ -34,6 +34,11 @@ export default function Home() {
         <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://staking-mugi.vercel.app/">Staking Central</a></button>
         <button><a className=" pointer-events-none text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://log-overview-mugi.vercel.app/">Log Overview</a></button>
       </div>
+      <div className=" w-full grid lg:grid-cols-4 grid-cols-2 gap-4 relative pt-10">
+        <h3 className=" absolute top-0 left-1/2 -translate-x-1/2 font-extrabold text-2xl">V3</h3>
+        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://captain-s-log.vercel.app/">Captain&apos;s Log</a></button>
+        <button><a className=" text-xl font-extrabold text-white hover:text-gray-300 hover:underline" href="https://rogue-gallery.vercel.app/">Rogue Gallery</a></button>
+      </div>
     </main>
   );
 }
