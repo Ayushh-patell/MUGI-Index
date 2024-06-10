@@ -5,7 +5,7 @@ const MontFont = Montserrat({subsets:["cyrillic"]})
 
 export default function Home() {
   return (
-    <main className={`flex min-h-screen flex-col items-center justify-between pb-5 ${MontFont.className} `}>
+    <main className={`flex h-full flex-col items-center justify-between pb-5 ${MontFont.className} `}>
     <Image src={"/onepiece bg.png"} alt="onepiece" fill className=" object-cover brightness-[0.2]"/>
       <nav className=" flex justify-around items-center p-4 px-6 w-full relative z-10">
         <Image src={"/MUGIWARA PIRATES LOGO.png"} alt="LOGO" width={100} height={100} className="" />
